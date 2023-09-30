@@ -10,7 +10,7 @@
     "discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3",
     "os": "^0.1.2",
-    "superagent": "^6.1.0"
+    "superagent": "^8.1.2"
   },
   "engines": {
     "node": "14.x"
